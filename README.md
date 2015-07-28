@@ -1,2 +1,2 @@
 # Blog
-Static blog using Jekyll
+Personal blog
